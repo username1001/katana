@@ -13,6 +13,8 @@ endif
 
 let g:colors_name = "katana"
 
+" #3f3740
+
 " Background and general settings
 set background=dark
 hi Normal       ctermbg=235 ctermfg=255 guibg=#2e2a25 guifg=#f4e1d2
