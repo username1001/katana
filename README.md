@@ -21,7 +21,3 @@ set termguicolors
 
 ![Katana Example](katana-example.png)
 ![Katana Example 1](katana-example-1.png)
-
-
-![Katana Example](https://github.com/username1001/katana/blob/main/katana-example.png)
-![Katana Example 1](https://github.com/username1001/katana/blob/main/katana-example-1.png)
